@@ -27,3 +27,5 @@ and
 featrue1
 
 master
+merge
+dev
