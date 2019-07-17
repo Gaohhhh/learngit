@@ -32,3 +32,5 @@ dev
 
 使用noff方式合并1
 使用noff方式合并2
+
+now modify sum bugs
